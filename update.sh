@@ -10,5 +10,9 @@ echo ----- apt autoremove -----
 sudo apt autoremove -y
 echo ----- apt-get autoremove -----
 sudo apt-get autoremove -y
+echo ----- apt full-upgrade -----
+sudo apt full-upgrade -y
+echo ----- apt-get full-upgrade -----
+sudo apt-get full-upgrade -y
 echo ----- DONE! rebooting -----
 sudo reboot
