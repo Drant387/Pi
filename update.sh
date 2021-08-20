@@ -16,5 +16,4 @@ echo ----- apt full-upgrade -----
 sudo apt full-upgrade -y
 echo ----- apt-get full-upgrade -----
 sudo apt-get full-upgrade -y
-echo ----- DONE! rebooting -----
-sudo reboot
+echo ----- DONE! -----
