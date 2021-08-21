@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sudo apt install unzip
 wget https://downloads.rclone.org/rclone-current-linux-arm.zip
 unzip -j -d rclone-temp rclone-current-linux-arm.zip
